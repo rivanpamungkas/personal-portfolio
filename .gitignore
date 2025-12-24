@@ -1,0 +1,12 @@
+# Folder setting editor (VSCode)
+.vscode/
+
+# File otomatis Python
+__pycache__/
+*.pyc
+
+# File environment (rahasia)
+.env
+
+# File sampah / sementara
+*.log
